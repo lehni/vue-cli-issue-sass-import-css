@@ -9,8 +9,8 @@
     "vue": "^2.5.16"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "^3.0.0-rc.10",
-    "@vue/cli-service": "^3.0.0-rc.10",
+    "@vue/cli-plugin-babel": "^3.0.1",
+    "@vue/cli-service": "^3.0.1",
     "hint.css": "^2.5.0",
     "node-sass": "^4.9.0",
     "sass-loader": "^7.0.1",
